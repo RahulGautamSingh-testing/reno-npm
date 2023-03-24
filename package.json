@@ -1,0 +1,14 @@
+{
+  "name": "reno-npm",
+  "version": "1.0.0",
+  "description": "test the genration of lock-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmldoc": "^1.0.0"
+  }
+}
